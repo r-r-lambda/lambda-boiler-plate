@@ -1,5 +1,5 @@
 {
-  "name": "rest-and-rooms-lambda-api",
+  "name": "rest-and-rooms-lambda-boiler-plate",
   "version": "1.0.0",
   "description": "Rest and rooms lambda api",
   "main": "src/index.js",

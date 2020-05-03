@@ -1,9 +1,9 @@
 const express = require('express');
 
-const getQuote = require('./services/get-quote');
+const getRooms = require('./services/get-rooms');
 
 const router = express.Router();
 
-router.get('/quotes/:id', getQuote);
+router.get('/rooms', getRooms);
 
 module.exports = router;
